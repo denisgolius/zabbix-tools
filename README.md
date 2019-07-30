@@ -59,3 +59,4 @@ optional arguments:
   --e                   Export function
   --export              Export function
 ```
+Source link https://linux-notes.org/e-ksportirovanie-zabbix-templates/
